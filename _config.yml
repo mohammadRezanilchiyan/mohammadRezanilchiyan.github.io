@@ -1,6 +1,6 @@
 title: "Mohammad Reza Nilchiyan"
 author: "Mohammad Reza"
-description: "Universiti Teknologi Malaysia"
+description: "Universiti Teknologi Malaysia(UTM)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "m.r.nilchiyan@fkegraduate.utm.my"}
+  - {title: Github, icon: github, url: "https://github.com/mohammadRezanilchiyan"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/drmohammadrezanilchiyan/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
