@@ -1,1 +1,9 @@
-As a highly skilled scholar electrical and computer engineer with a decade of experience in both academic and industrial settings, I am excited to apply my knowledge and expertise to a challenging role. My experience extends beyond electrical engineering to include 6 years of experience in management, and marketing. Also, I have passion, lies in Machine learning, data analysis, and process optimization.With 2+ years of experience utilizing cutting-edge techniques in Deep learning. I enjoy getting to grips with complex problems and working on them together with colleagues, constantly seeking opportunities to learn new technologies and pushing manufacturing excellence through first-class production design and process skills. My proficiency in English and B2-level German language skills, along with my fast learning abilities, make me an excellent fit for a role, where I can contribute to the company’s mission of driving technological innovation and excellence.
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+# About Me
+
+Your introduction and information about yourself go here.
