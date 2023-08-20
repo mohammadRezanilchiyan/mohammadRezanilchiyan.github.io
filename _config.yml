@@ -1,6 +1,6 @@
 title: "Mohammad Reza Nilchiyan"
 author: "Mohammad Reza"
-description: "Universiti Teknologi Malaysia(UTM)"
+description: "Universiti Teknologi Malaysia (UTM)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -9,25 +9,27 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false      # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_frame: true          # adds a gray frame to the site
+show_sidebar: false       # show a sidebar instead of the usual header
+minimal: false            # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home",icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+navigation:               # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "about.html", title: "About Me", icon: address-card}
+  - {file: "publications.html", title: "Publications", icon: book}
+  - {file: "honors.html", title: "Honors", icon: trophy}
+  - {file: "certificates.html", title: "Certificates", icon: certificate}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "m.r.nilchiyan@fkegraduate.utm.my"}
-  - {title: Github, icon: github, url: "https://github.com/mohammadRezanilchiyan"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/drmohammadrezanilchiyan/"}
-  
+external:                 # shows a footer with social links - for available icons, see fontawesome.com/icons
+  - {title: "Mail", icon: "envelope", url: "mailto:m.r.nilchiyan@fkegraduate.utm.my"}
+  - {title: "Github", icon: "github", url: "https://github.com/mohammadRezanilchiyan"}
+  - {title: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/drmohammadrezanilchiyan/"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+#  disqus_shortname: ""   # see https://disqus.com/
+#  isso_domain: ""        # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
