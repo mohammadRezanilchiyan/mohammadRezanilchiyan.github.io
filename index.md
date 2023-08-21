@@ -1,7 +1,7 @@
 <!-- index.md -->
 
 ---
-# layout: default
+ layout: default
  title: Welcome to My Page
 ---
 
