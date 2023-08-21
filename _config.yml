@@ -17,11 +17,11 @@ minimal: false            # Use a dark header
 
 # Menu
 navigation:                        # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: "home"}
-  - {file: "about.html", title: "About Me", icon: "address-card"}
-  - {file: "publications.html", title: "Publications", icon: "book"}
-  - {file: "honors.html", title: "Honors", icon: "trophy"}
-  - {file: "certificates.html", title: "Certificates", icon: "certificate"}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "about.html", title: "About Me", icon: address-card}
+  - {file: "publications.html", title: "Publications", icon: book}
+  - {file: "honors.html", title: "Honors", icon: trophy}
+  - {file: "certificates.html", title: "Certificates", icon: certificate}
 
 
 external:                    # shows a footer with social links - for available icons, see fontawesome.com/icons
