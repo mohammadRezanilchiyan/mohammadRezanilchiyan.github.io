@@ -8,7 +8,7 @@
 <body>
   <h1>About Me</h1>
   
- <li>  <h2>Education</h2> </li>
+ <ul>  <h2>Education</h2>  </ul>
   <ul>
     <li>B.Sc. in Power Electronic Systems - Iran University of Esfahan (IAUN)</li>
     <li>M.Sc. in Mechatronic and Automation Control Systems - University Technology of Malaysia (UTM)</li>
