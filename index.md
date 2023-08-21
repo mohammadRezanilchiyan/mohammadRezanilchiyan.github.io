@@ -2,8 +2,6 @@
 ![Your Profile Picture](/assets/M.R.jpg)
 
 
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,13 +18,13 @@
   </ul>
   
   <h2>Accomplishments</h2>
-  <p>Graduated with first rank in all educational subjects during study.</p>
+  <p>Graduated with first rank in all educational subjects during the study.</p>
   <p>Selected as an international scholar student from the Ministry of Higher Education of Malaysia (MIS).</p>
   
   <h2>Work Experience</h2>
   <p>Worked as a Chief Engineer at Powerwell Sdn. Bhd, a well-known manufacturing company.</p>
   
   <h2>Current Endeavors</h2>
-  <p>Pursuing opportunities in Austria.</p>
+  <p>Pursuing opportunities in Deutschland as I have permission to work in Europe.</p>
 </body>
 </html>
