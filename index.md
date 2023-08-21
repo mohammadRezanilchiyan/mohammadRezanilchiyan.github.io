@@ -1,9 +1,7 @@
-<!-- index.md -->
+
 
 ---
-   layout: page 
-   title: "Welcome to My Page"
-         
+
 ---
 
 ![Your Profile Picture](/assets/M.R.jpg)
