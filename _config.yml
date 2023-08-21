@@ -1,35 +1,35 @@
-# _config.yml
+title: "Mohammad Reza Nilchiyan"
+author: "Mohammad Reza"
+description: "Universiti Teknologi Malaysia (UTM)"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-title: Mohammad Reza Nilchiyan
-description: Welcome to my personal webpage!
-theme: jekyll-theme-minimal
+# Layout
 
-# Navigation links
-nav_links:
-  - text: Home
-    url: /
-  - text: About Me
-    url: /about
+show_excerpts: false      # show article excerpts on the home page
+show_frame: true          # adds a gray frame to the site
+show_sidebar: false       # show a sidebar instead of the usual header
+minimal: false            # use a dark header
 
-# Social links
-social_icons:
-  - icon: fab fa-github
-    url: https://github.com/yourusername
-  # Add more social icons as needed
+# Menu
 
-# Build settings
-markdown: kramdown
+navigation:               # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: "Home", icon: home}
+  - {file: "about.html", title: "About Me", icon: address-card}
+  - {file: "publications.html", title: "Publications", icon: book}
+  - {file: "honors.html", title: "Honors", icon: trophy}
+  - {file: "certificates.html", title: "Certificates", icon: certificate}
 
-# Jekyll SEO Tag settings
+external:                 # shows a footer with social links - for available icons, see fontawesome.com/icons
+  - {title: "Mail", icon: "envelope", url: "mailto:m.r.nilchiyan@fkegraduate.utm.my"}
+  - {title: "Github", icon: "github", url: "https://github.com/mohammadRezanilchiyan"}
+  - {title: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/drmohammadrezanilchiyan/"}
+
+comments:
+#  disqus_shortname: ""   # see https://disqus.com/
+#  isso_domain: ""        # see https://posativ.org/isso/
+
 plugins:
-  - jekyll-seo-tag
-
-# Permalinks for posts and pages
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      permalink: /:title/
-
-# More Jekyll and site-related settings can be added here
+  - jekyll-feed
