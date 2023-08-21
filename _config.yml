@@ -22,7 +22,7 @@ navigation:               # accepts {file, title, url, icon, sidebaricon}
   - {file: "about.html", title: "About Me", icon: address-card}
   - {file: "publications.html", title: "Publications", icon: book}
   - {file: "honors.html", title: "Honors", icon: trophy}
-  - {file: "index.md, title: "Welcome to My Page", icon: home}
+  - {title: "Welcome to My Page", file: "index.md"}
   - {file: "certificates.html", title: "Certificates", icon: certificate}
 
 
