@@ -17,15 +17,16 @@ show_social: true         # show site description
 
 
 # Menu
-navigation:                        # accepts {file, title, url, icon, sidebaricon}
+navigation:               # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
   - {file: "about.html", title: "About Me", icon: address-card}
   - {file: "publications.html", title: "Publications", icon: book}
   - {file: "honors.html", title: "Honors", icon: trophy}
+  - {title: "Welcome to My Page", icon: home}
   - {file: "certificates.html", title: "Certificates", icon: certificate}
 
 
-external:                    # shows a footer with social links - for available icons, see fontawesome.com/icons
+external:                  # shows a footer with social links - for available icons, see fontawesome.com/icons
   - {title: "Mail", icon: "envelope", url: "mailto:m.r.nilchiyan@fkegraduate.utm.my"}
   - {title: "Github", icon: "github", url: "https://github.com/mohammadRezanilchiyan"}
   - {title: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/drmohammadrezanilchiyan/"}
