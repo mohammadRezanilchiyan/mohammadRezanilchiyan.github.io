@@ -18,7 +18,7 @@ show_social: true         # show site description
 
 # Menu
 navigation:               # accepts {file, title, url, icon, sidebaricon}
-   - {title: "Home", file: "index.md", icon: home}
+   - {title: "Home", file: "home.md", icon: home}
    - {title: "About Me", file: "about.md", icon: address-card}
    - {title: "Publications", file: "publications.md", icon: book}
  # - {file: "honors.html", title: "Honors", icon: trophy}
