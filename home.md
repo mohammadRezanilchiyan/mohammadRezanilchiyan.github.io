@@ -4,7 +4,7 @@
     <title>Your Personal Web Page</title>
 </head>
 <body>
-    <div style="display: flex; align-items: center; padding: 35px;">
+    <div style="display: flex; align-items: center; padding: 60px;">
         <div style="flex: 1;padding-right: 25px;">
             <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 120%;">
         </div>
