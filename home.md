@@ -9,7 +9,7 @@ Upon graduation, I embraced a pivotal role as a chief engineer designer within a
 
 Key Attributes:
 
-Highly Motivated: A profound drive fuels my endeavors.
+*First bullet point Highly Motivated: A profound drive fuels my endeavors.
 Proficient in Prioritization: Adept at discerning and managing priorities.
 Timely Task Completion: Demonstrates efficiency in accomplishing tasks within deadlines.
 Multitasking Agility: Flexibility to handle diverse tasks concurrently.
