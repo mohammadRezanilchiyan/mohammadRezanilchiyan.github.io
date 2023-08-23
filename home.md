@@ -9,13 +9,12 @@
     <div style="flex: 1; padding-right: 40px;">
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%;">
     </div>
-    <div style="flex: 2;">
+    <div style="flex: 1;">
         <p>Welcome to My Page</p>
         <p>This is some content or notes you want to share.</p>
     </div>
 </div>
-
-            
+          
             <h1>About Me</h1>
             <p>
                 Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
