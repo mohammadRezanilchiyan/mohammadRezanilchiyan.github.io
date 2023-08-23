@@ -4,8 +4,8 @@
     <title>Your Personal Web Page</title>
 </head>
 <body>
-    <div style="display: flex; align-items: center; padding: 25px;">
-        <div style="flex: 1;padding-right: 40px;">
+    <div style="display: flex; align-items: center; padding: 40px;">
+        <div style="flex: 1;padding-right: 25px;">
             <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 110%;">
         </div>
         <div style="flex: 2; padding-left: 20px;">
