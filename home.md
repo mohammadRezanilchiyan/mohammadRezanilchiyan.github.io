@@ -5,19 +5,16 @@
 </head>
 <body>
 
-
-        ------------
 <div style="display: flex; align-items: center; padding: 25px;">
-    <div style="flex: 1;">
-        <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 150%; margin-left: -20px;">
+    <div style="flex: 1; padding-right: 40px;">
+        <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%;">
     </div>
-    <div style="flex: 2; padding-left: 60px;">
-        <!-- Content for the right side -->
+    <div style="flex: 2;">
+        <p>Welcome to My Page</p>
+        <p>This is some content or notes you want to share.</p>
     </div>
 </div>
 
-
-        ------------
             
             <h1>About Me</h1>
             <p>
