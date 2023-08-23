@@ -6,7 +6,7 @@
 <body>
     <div style="display: flex; align-items: center; padding: 25px;">
         <div style="flex: 1;">
-            <img src="/assets/About_Me.jpe" alt="Your Image" style="max-width: 100%;">
+            <img src="/assets/About_Me.jpeg" alt="Your Image" style="max-width: 80%;">
         </div>
         <div style="flex: 2; padding-left: 20px;">
             <h1>About Me</h1>
@@ -27,13 +27,8 @@
 <li><strong>Continuous Growth: Committed to ongoing personal development.</li>
 <li><strong>Team Player: Demonstrates collaborative spirit and excels in diverse group dynamics.</li>
 <li><strong>Coding Proficiency: Highly skilled in coding applications.</li>
-# <li><strong>Exceptional Leadership: Innate leadership abilities foster rapport within diverse teams.</li>
-# <li><strong>Task Prioritization: Proficient in aligning tasks with project needs.</li>
+<li><strong>Exceptional Leadership: Innate leadership abilities foster rapport within diverse teams.</li>
+<li><strong>Task Prioritization: Proficient in aligning tasks with project needs.</li>
 
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
 
 
