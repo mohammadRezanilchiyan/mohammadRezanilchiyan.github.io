@@ -6,7 +6,7 @@
 <body>
     <div style="display: flex; align-items: center; padding: 25px;">
         <div style="flex: 1;">
-            <img src="/assets/About_Me.jpeg" alt="Your Image" style="max-width: 80%;">
+            <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 110%;">
         </div>
         <div style="flex: 2; padding-left: 20px;">
             <h1>About Me</h1>
