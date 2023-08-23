@@ -18,7 +18,6 @@
                 Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
             </p>
             
-         
             
             <h2>Key Attributes</h2>
             <ul>
