@@ -4,15 +4,13 @@
     <title>Your Personal Web Page</title>
 </head>
 <body>
-   
 
-<div style="position: relative; padding: 60px;">
-    <img src="/assets/Parliman.jpg" alt="Your Image" style="position: absolute; left: -50px; max-width: 120%;">
-    <div style="margin-left: 120px;">
-    </div>
-</div>
-       
-            
+ <div style="display: flex; align-items: center; padding: 60px;">
+        <div style="flex: 1;padding-right: 55px;">
+            <img src="/assets/Parliman.jpg" alt="Your Image" style="position: absolute; left: -50px; style="max-width: 120%;">
+        </div>
+        <div style="flex: 2; padding-left: 20px;">
+   
             <h1>About Me</h1>
             <p>
                 Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
