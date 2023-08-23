@@ -9,8 +9,7 @@
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%;">
     </div>
     <div style="flex: 2; padding-left: 40px;">
-        <p>Welcome to My Page</p>
-        <p>This is some content or notes you want to share.</p>
+        
     </div>
 </div>
            <h1>About Me</h1>
