@@ -1,21 +1,19 @@
-
 <html>
 <head>
     <title>Your Personal Web Page</title>
 </head>
 <body>
 
-<div style="display: flex; align-items: center; padding: 25px;">
-    <div style="flex: 1; padding-right: 40px;">
+<div style="display: flex; align-items: flex-start; padding: 25px;">
+    <div style="flex: 1;">
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%;">
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 2; padding-left: 40px;">
         <p>Welcome to My Page</p>
         <p>This is some content or notes you want to share.</p>
     </div>
 </div>
-          
-            <h1>About Me</h1>
+           <h1>About Me</h1>
             <p>
                 Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
             </p>
