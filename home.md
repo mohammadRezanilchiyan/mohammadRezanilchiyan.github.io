@@ -5,13 +5,10 @@
 </head>
 <body>
     <div style="display: flex; align-items: center; padding: 60px;">
-        <div style="flex: 1;padding-right: 25px;">
+        <div style="flex: 1;padding-right: 55px;">
             <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 120%;">
         </div>
         <div style="flex: 2; padding-left: 20px;">
-
-
-
             
             <h1>About Me</h1>
             <p>
