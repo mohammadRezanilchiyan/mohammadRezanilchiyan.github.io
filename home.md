@@ -1,5 +1,5 @@
 
-<img align="right" width="400" height="400" src="/assets/M.R.jpg">
+<img align="right" width="400" height="400" src="/assets/About_Me.jpg">
 Presenting over 14 years of combined academic and industrial experience, I possess a track record that consistently surpasses objectives and garners high satisfaction ratings across areas of organizational prowess, technological acumen, collaborative adeptness, and efficient advancement.
 
 My educational journey commenced with a B.Sc. degree in Power Electronic Systems from Iran University of Esfahan (IAUN). Subsequently, I achieved an M.Sc. degree in Mechatronic and Automation Control Systems, followed by a Ph.D. in Artificial Intelligence from the esteemed University of Technology of Malaysia (UTM). These academic pursuits transpired within the realm of the Electrical faculty, spanning from 2003 to 2016. Notably, I attained the first rank throughout my academic endeavors, earning recognition as an international scholar by the Ministry of Higher Education of Malaysia (MIS). This distinction led me to a role as a Ph.D. researcher, focusing on artificial intelligence challenges at the Center of Artificial Intelligence and Robotics (CAIRO).
