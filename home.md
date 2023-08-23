@@ -9,7 +9,8 @@
         <div style="flex: 1;">
             <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%;">
         </div>
-        <div style="flex: 2; padding-left: -30px;">
+        <div style="flex: 2; padding-left: 40px;">
+            
             <h1>About Me</h1>
             <p>
                 Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
