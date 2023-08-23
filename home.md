@@ -26,13 +26,13 @@
                 <li><strong>Proficient in Prioritization:</strong> Adept at discerning and managing priorities.</li>
                 <li><strong>Timely Task Completion:</strong> Demonstrates efficiency in accomplishing tasks within deadlines.</li>
 
-<li><strong>Multitasking Agility: Flexibility to handle diverse tasks concurrently.
-<li><strong>Eager Learner: Thrives on acquiring new skills and adapting to novel processes.
-<li><strong>Continuous Growth: Committed to ongoing personal development.
-<li><strong>Team Player: Demonstrates collaborative spirit and excels in diverse group dynamics.
-<li><strong>Coding Proficiency: Highly skilled in coding applications.
-<li><strong>Exceptional Leadership: Innate leadership abilities foster rapport within diverse teams.
-<li><strong>Task Prioritization: Proficient in aligning tasks with project needs.
+<li><strong>Multitasking Agility:</strong> Flexibility to handle diverse tasks concurrently.
+<li><strong>Eager Learner:</strong> Thrives on acquiring new skills and adapting to novel processes.
+<li><strong>Continuous Growth:</strong> Committed to ongoing personal development.
+<li><strong>Team Player:</strong> Demonstrates collaborative spirit and excels in diverse group dynamics.
+<li><strong>Coding Proficiency:</strong> Highly skilled in coding applications.
+<li><strong>Exceptional Leadership:</strong> Innate leadership abilities foster rapport within diverse teams.
+<li><strong>Task Prioritization:</strong> Proficient in aligning tasks with project needs.
 
 
 
