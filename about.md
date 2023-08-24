@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -14,8 +15,9 @@
     padding: 20px;
   }
   .header img {
-    max-width: 100%;
-    height: auto;
+    width: 17cm;
+    height: 7cm;
+    object-fit: cover;
   }
   .content {
     text-align: center;
@@ -25,7 +27,7 @@
 </head>
 <body>
   <div class="header">
-    <img src="assests/Birthday.jpg" alt="Your Image">
+    <img src="assets/Birthday.jpg" alt="Your Image">
   </div>
   <div class="content">
     <h1>Let's Talk About Me</h1>
