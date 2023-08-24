@@ -22,8 +22,8 @@ navigation:               # accepts {file, title, url, icon, sidebaricon}
    - {title: "Home", file: "home.md", icon: home}
    - {title: "About Me", file: "about.md", icon: address-card}
    - {title: "", file: "publications.md", icon: book}
- # - {file: "honors.html", title: "Honors", icon: trophy}
- # - {file: "certificates.html", title: "Certificates", icon: certificate}
+   - {title: "Honors",file: "honors.md" , icon: trophy}
+   - {title: "Certificates", file: "certificates.md", icon: certificate}
 
 
 external:                  # shows a footer with social links - for available icons, see fontawesome.com/icons
