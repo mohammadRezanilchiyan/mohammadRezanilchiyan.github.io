@@ -21,7 +21,7 @@ show_social: true         # show site description
 navigation:               # accepts {file, title, url, icon, sidebaricon}
    - {title: "Home", file: "home.md", icon: home}
    - {title: "About Me", file: "about.md", icon: address-card}
-   - {title: "", file: "publications.md", icon: book}
+   - {title: "Publications", file: "publications.md", icon: book}
    - {title: "Honors",file: "honors.md" , icon: trophy}
    - {title: "Certificates", file: "certificates.md", icon: certificate}
 
