@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -15,8 +15,8 @@
     padding: 20px;
   }
   .header img {
-    width: 20cm;
-    height: 7.5cm;
+    width: 25cm;
+    height: 10cm;
     object-fit: cover;
   }
   .content {
