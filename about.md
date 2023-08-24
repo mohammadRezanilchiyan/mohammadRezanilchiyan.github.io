@@ -25,7 +25,7 @@
 </head>
 <body>
   <div class="header">
-    <img src="Birthday.jpg" alt="Your Image">
+    <img src="assests/Birthday.jpg" alt="Your Image">
   </div>
   <div class="content">
     <h1>Let's Talk About Me</h1>
