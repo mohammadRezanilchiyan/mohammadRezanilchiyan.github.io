@@ -9,13 +9,13 @@
     <div style="flex: 1;">
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%; margin-right: 20px;">
     </div>
-    <div style="flex: 2; padding-left: 75px;">
+    <div style="flex: 2; padding-left: 82px;">
         <h1>About Me</h1>
         <p>
-            Presenting over 14 years of combined academic and industrial experience, I possess a track record in Electrical, Project Engineering, Artificial Intelligence, and Machine learning. 
+          Bringing together 14+ years of academic and industry expertise, I have a proven background in Electrical and Project Engineering, as well as Artificial Intelligence and Machine Learning. 
         </p>
         
-        <h2>Key Attributes</h2>
+        <h2>My Key Attributes</h2>
         <ul>
             <li><strong>Highly Motivated:</strong> A profound drive fuels my endeavors.</li>
             <li><strong>Proficient in Prioritization:</strong> Adept at discerning and managing priorities.</li>
