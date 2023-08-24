@@ -15,8 +15,8 @@
     padding: 20px;
   }
   .header img {
-    width: 15cm;
-    height: 5cm;
+    width: 20cm;
+    height: 7.5cm;
     object-fit: cover;
   }
   .content {
