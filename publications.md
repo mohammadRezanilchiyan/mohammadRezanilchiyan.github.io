@@ -1,4 +1,3 @@
-# Publication
 
 * [Online Signature Verification Using Multiresolution Feature Extraction And Selection](https://www.worldscientific.com/doi/abs/10.1142/S0218001414560059)
 * [Joint absorption and phase retrieval in grating-based x-ray radiography](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-7-7253&id=338504)
