@@ -1,7 +1,8 @@
 # _config.yml
+
 title: "Mohammad Reza Nilchiyan"
 author: "Mohammad Reza"
-description: "Universiti Teknologi Malaysia (UTM)"
+description: "<a href='https://www.utm.my'>Universiti Teknologi Malaysia (UTM)</a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
