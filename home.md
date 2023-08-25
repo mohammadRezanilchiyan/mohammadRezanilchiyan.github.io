@@ -10,7 +10,7 @@
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 140%; margin-right: 20px;">
     </div>
     <div style="flex: 2; padding-left: 100px;">
-        <h1>About Me</h1>
+        <h1>Discover some qualifications</h1>
         <p>
           Bringing together 14+ years of academic and industry expertise, I have a proven background in Electrical and Project Engineering, as well as Artificial Intelligence and Machine Learning. 
         </p>
