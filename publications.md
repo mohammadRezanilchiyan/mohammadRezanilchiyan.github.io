@@ -9,9 +9,9 @@
 
 <div class="publication-images">
     <div class="publication-image">
-        <img src="/assets/A1.jpg" alt="Image 1">
+        <img src="/assets/A1.JPG" alt="Image 1">
     </div>
     <div class="publication-image">
-        <img src="/assets/A2.jpg" alt="Image 2">
+        <img src="/assets/A2.JPG" alt="Image 2">
     </div>
 </div>
