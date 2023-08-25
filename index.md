@@ -23,7 +23,7 @@
 </head>
 <body>
   <h1>About Me</h1>
-   <p style="font-family: 'SignPainter', fantasy; font-size: 24px;">
+   <p style="font-family: 'Snell Roundhand', fantasy; font-size: 30px;">
   I'm a father
 </p>
   <h2>Education</h2>
