@@ -10,7 +10,7 @@
         <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 134%; margin-right: 20px;">
     </div>
     <div style="flex: 2; padding-left: 100px;">
-        <h1>Discover some qualifications</h1>
+        <h1>Explore My Credentials</h1>
         <p>
           With over 14 years of experience in academia and industry, I have a strong foundation in Electrical and Project Engineering, coupled with expertise in Artificial Intelligence and Machine Learning. Throughout my career, I've excelled in roles as a project engineer, where I've focused on streamlining operations through optimization, design, and meticulous testing. My contributions were recognized by senior engineers for their effectiveness and precision. My previous roles provided me invaluable insights into organizational dynamics, emphasizing the importance of well-designed equipment and strategic planning. Additionally, my commitment to customer satisfaction has consistently driven suc
         </p>
