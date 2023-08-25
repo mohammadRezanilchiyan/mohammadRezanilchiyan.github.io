@@ -17,6 +17,7 @@
     <div class="honors-image">
         <img src="/assets/MIS.jpeg" alt="Image 1"  style="width: 600px; height: auto;">
         <p class="image-caption">"Mohammad Reza receiving an award from Malaysia's Minister of Higher Education, Sir Dato Seri Mohamed Khaled Nordin, in 2012."</p>
+     <link rel="stylesheet" href="/assets/css/font-size">
     </div>
     
 </div>
