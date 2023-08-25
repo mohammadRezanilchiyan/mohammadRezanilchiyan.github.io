@@ -24,6 +24,7 @@
 <body>
   <h1>About Me</h1>
  <p class="fantasy-text">I'm a father</p>
+  [Your Profile Picture](/assets/father.png)
   <h2>Education</h2>
   <ul>
     <li>B.Sc. in Power Electronic Systems - Iran University of Esfahan (IAUN)</li>
