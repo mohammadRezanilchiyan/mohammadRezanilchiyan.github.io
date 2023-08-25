@@ -12,7 +12,7 @@
 
 <div class="honors-images">
     <div class="honors-image">
-        <img src="/assets/MIS.jpeg" alt="Image 1"  style="width: 100px; height: auto;">
+        <img src="/assets/MIS.jpeg" alt="Image 1"  style="width: 600px; height: auto;">
     </div>
     
 </div>
