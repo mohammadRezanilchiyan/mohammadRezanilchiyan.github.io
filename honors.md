@@ -8,3 +8,11 @@
 * [Ranked among 10 top talents in each semester. Electrical Engineering Department, Isfahan University and University Technology Malaysia(2004-2008).]
 * [Graduated by Government scholarship of High school(2000-2004).]
     
+
+
+<div class="honors-images">
+    <div class="honors-image">
+        <img src="/assets/MIS.jpeg" alt="Image 1">
+    </div>
+    
+</div>
