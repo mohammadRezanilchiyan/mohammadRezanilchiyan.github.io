@@ -1,4 +1,4 @@
-
+# Selected Honors and Awards
 
 * [Selected student for Full Malaysian International Scholarship (MIS)( Between 300,000 International students )(2012-2015).]
 * [Selected student for International Doctoral Fellowship(IDF)(2011-2013).]
@@ -12,7 +12,7 @@
 
 <div class="honors-images">
     <div class="honors-image">
-        <img src="/assets/MIS.jpeg" alt="Image 1">
+        <img src="/assets/MIS.jpeg" alt="Image 1"  style="width: 100px; height: auto;">
     </div>
     
 </div>
