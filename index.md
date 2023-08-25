@@ -1,5 +1,5 @@
 
-![Your Profile Picture](/assets/M.R.jpg)
+![Your Profile Picture](/assets/main.jpg)
 
 <html>
 <head>
