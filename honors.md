@@ -1,7 +1,7 @@
  
  <h1>Selected Honors and Awards</h1>
  
-* [Selected student for Full Malaysian International Scholarship (MIS)( Between 300,000 International students )(2012-2015).](assets/MIS award.pdf)
+* [Selected student for Full Malaysian International Scholarship (MIS)( Between 300,000 International students)(2012-2015).](assets/MIS award.pdf)
 * [Selected student for International Doctoral Fellowship(IDF)(2011-2012).](assets/IDF(2011-2012).pdf)
 * [Selected student for International Doctoral Fellowship(IDF)(2012-2013).](assets/IDF(2012-2013).pdf)
 * [Selected for best research proposal without any amendment(2012).]
