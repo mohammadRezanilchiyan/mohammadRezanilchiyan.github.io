@@ -23,7 +23,9 @@
 </head>
 <body>
   <h1>About Me</h1>
-    <img src="/assets/father.jpg" alt="Image 1" style= width: 400px; height: 200;">
+   <p style="font-family: 'SignPainter', fantasy; font-size: 24px;">
+  I'm a father
+</p>
   <h2>Education</h2>
   <ul>
     <li>B.Sc. in Power Electronic Systems - Iran University of Esfahan (IAUN)</li>
