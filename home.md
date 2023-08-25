@@ -7,7 +7,7 @@
 
 <div style="display: flex; align-items: flex-start; padding: 25px;">
     <div style="flex: 1;">
-        <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 134%; margin-right: 20px;">
+        <img src="/assets/Parliman.jpg" alt="Your Image" style="max-width: 141%; margin-right: 20px;">
     </div>
     <div style="flex: 2; padding-left: 100px;">
         <h1>Explore My Credentials</h1>
