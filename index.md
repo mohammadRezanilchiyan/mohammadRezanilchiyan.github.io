@@ -23,7 +23,7 @@
 </head>
 <body>
   <h1>About Me</h1>
-  <p>I'm a father</p>
+ <p class="fantasy-text">I'm a father</p>
   <h2>Education</h2>
   <ul>
     <li>B.Sc. in Power Electronic Systems - Iran University of Esfahan (IAUN)</li>
