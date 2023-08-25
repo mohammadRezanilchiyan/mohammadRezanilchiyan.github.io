@@ -23,7 +23,7 @@
 </head>
 <body>
   <h1>About Me</h1>
-    <img src="/assets/father.png" alt="Image 1" style="width: 60px; height: auto;">
+    <img src="/assets/father.jpg" alt="Image 1" style= width: 400px; height: 200;">
   <h2>Education</h2>
   <ul>
     <li>B.Sc. in Power Electronic Systems - Iran University of Esfahan (IAUN)</li>
