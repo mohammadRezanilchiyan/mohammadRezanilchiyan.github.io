@@ -1,5 +1,5 @@
 <h1>Some Certificates</h1>
-- [Master of Business Administration(MBA General,FanPardazan Learning Institute Iran Ministry of Science Research and Technology)(2020-2021)](/assets/MBA-Certificate & Transcript.pdf)
+- [Master of Business Administration(MBA General,FanPardazan Learning Institute Iran Ministry of Science Research and Technology)(2020-2021)](assets/MBA-Certificate & Transcript.pdf)
 - [Senior Chairman in Artificial Intelligence, Modeling, and Simulation (ISMS2013)](/assets/Chairman%20of%20Conference2013-.pdf)
 - [Presentation of Artificial Intelligence, Modeling, and Simulation (ISMS2013)](/assets/AIMS%20Certificate.pdf)
 - [Senior Chairman in Intelligence Systems & Modeling and Simulation (ISMS2014)](/assets/Chairman%20of%20Conference2014.pdf)
