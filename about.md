@@ -33,7 +33,7 @@
     <h1>Let's Talk About My Background</h1>
     <p> Allow me to introduce myself. I am Mohammad Reza Nilchiyan, driven by an unwavering commitment to engineering excellence. My fervor lies in confronting complex challenges and immersing myself in projects that stretch beyond my comfort zone. The pivotal juncture of my career arrived when I chose to embark on the path of Electrical Engineering.
 
-Influenced profoundly by luminaries such as Dr. Lotfi Aliasker Zadeh, Dr. Fazlollah Reza and Dr. Parviz Jabehdar-Maralani, I gravitated toward the realm of electrical and computer science. My academic tenure at Isfahan University heightened my interest in experimental electronics and the dynamics of power systems.
+Influenced profoundly by luminaries such as [Dr. Lotfi Aliasker Zadeh](https://en.wikipedia.org/wiki/Lotfi_A._Zadeh), Dr. Fazlollah Reza and Dr. Parviz Jabehdar-Maralani, I gravitated toward the realm of electrical and computer science. My academic tenure at Isfahan University heightened my interest in experimental electronics and the dynamics of power systems.
 
 My academic journey led me to the prestigious University of Technology Malaysia(UTM). Here, I honed my expertise in Mechatronics and control systems, distinguishing myself in fields like Robotics and Digital Systems. My master's research, centered around Adaptive Control, amplified my prowess in computer programming.
 
