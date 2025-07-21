@@ -38,7 +38,10 @@
   <p>Selected as an international scholar student from the Ministry of Higher Education of Malaysia (MIS).</p>
   
   <h2>Important Work Experience</h2>
-  
+
+  <p> Academic & Industry Project Supervisor | Research Mentor at IU International University of Applied Sciences
+I have supervised over 11 Master's theses and capstone projects, with a focus on Artificial Intelligence, Computer Vision, and Applied Machine Learning. My role involves guiding students through the entire research process—from proposal development to final defense—while fostering both academic rigor and practical relevance.</p>
+
   <p> As Chief Engineer at Powerwell Sdn. Bhd, a renowned switchboard and control manufacturing company in East Asia, I led high-impact projects, overseeing the seamless fusion of electrical engineering expertise with cutting-edge technology.</p>
 
   <p> As Lead Project Engineer at Fantezyland, I spearheaded innovative smart home designs, harnessing the synergy between electrical engineering prowess and progressive advancements in automation and control systems. includes programming for security systems under Machine learning aspects.</p>
